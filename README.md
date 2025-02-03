@@ -1,8 +1,7 @@
 # FAQ Translation API
 
 ## Overview
-The **FAQ Translation API** is a backend service built with **Node.js**, **Express.js**, and **MongoDB** that fetches frequently asked questions (FAQs) from a database and translates them into a specified language using an external translation API. The API also implements **Redis caching** to improve performance by storing translated responses.
-
+The **FAQ Translation API** is a backend service built with **Node.js**, **Express.js**, and **MongoDB** that fetches frequently asked questions (FAQs) from a database and translates them into a specified language using an external translation API.
 ## Features
 - Fetches FAQs from a MongoDB database.
 - Supports translation of questions and answers into multiple languages.
